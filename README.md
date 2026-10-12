@@ -14,7 +14,6 @@
 
 ---
 
-## TL;DR
 
 **Defendr.gg** is a competitive gaming platform: players join 1v1 and team matches and tournaments, win prizes in a platform wallet, and earn rewards for being active. I built three connected modules:
 
@@ -137,5 +136,3 @@ I joined a small product team (CTO, 2 full-stack developers, 1 designer) as the 
 | External APIs | Riot Games API, Steam Web API, PUBG API |
 
 ---
-
-*Built by [Mahdi Bel Haj Said](https://github.com/Mahdi-Bel-Haj-Said). Happy to walk through any part of this in an interview.*
